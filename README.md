@@ -76,7 +76,7 @@ cd borsa-yatirim-takip
 
 ## Ekran Görüntüleri
 - **Ana Sayfa**:
-  <img src = srcc/index.png>
+  <img src = srcc/index.png weight = "600">
 - **Giriş Sayfası**:  
   ![Giriş Sayfası](srcc/login.png)<hr>
 - **Kayıt Sayfası**:
