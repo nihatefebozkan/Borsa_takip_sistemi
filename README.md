@@ -61,6 +61,9 @@ cd borsa-yatirim-takip
 - Projeyi bir Apache sunucusuna yerleştirin (örneğin, XAMPP veya WAMP ile lokal ortamda).
 - Tarayıcıda `http://localhost/borsa-yatirim-takip` adresine gidin.
 
+### Online Erişim
+- Online erişmek için <a href = "http://95.130.171.20/~st22360859033"> linke tıklayın </a>
+
 ## Kullanım
 1. **Kayıt Ol**: Ana sayfadaki "Kayıt Ol" bağlantısına tıklayarak kullanıcı adı, şifre, yaş ve cinsiyet bilgilerinizi girerek hesap oluşturun.
 2. **Oturum Aç**: Kayıtlı bilgilerinizle giriş yapın. Şifreler `password_hash()` ile güvenli bir şekilde saklanır.
