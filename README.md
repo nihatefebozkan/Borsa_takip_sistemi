@@ -75,7 +75,7 @@ cd borsa-yatirim-takip
 5. **Oturumu Kapat**: Sağ üstteki "Çıkış Yap" bağlantısıyla oturumu kapatın.
 
 ## Ekran Görüntüleri
-- **Ana Sayfa**:
+- **Ana Sayfa**: \n
   ![Ana Sayfa](srcc/index.png)
 - **Giriş Sayfası**:  
   ![Giriş Sayfası](srcc/login.png)
