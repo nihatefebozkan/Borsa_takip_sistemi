@@ -1,4 +1,4 @@
-### prompt : php ile html baglantısı nasıl yapılır
+# prompt : php ile html baglantısı nasıl yapılır
 
 
 
@@ -144,7 +144,7 @@ PHP, HTML ile birlikte CSS ve JavaScript'i de destekler. Örneğin:
 
 Eğer daha spesifik bir örnek veya detay istersen, sor lütfen! 😊
 <hr>
-### Prompt : php de siteye girdigimde error veriyor ssl diye neden
+# Prompt : php de siteye girdigimde error veriyor ssl diye neden
 
 
 PHP tabanlı bir web sitesine girerken SSL ile ilgili hata alıyorsanız, bu genellikle sunucu yapılandırması, sertifika sorunları veya kodlama hatalarıyla ilgilidir. Aşağıda bu sorunun olası nedenlerini ve çözümlerini kısaca açıklayayım:
@@ -247,7 +247,7 @@ Sorununuzu çözmek için daha fazla bilgiye ihtiyacım olursa, lütfen detaylar
 
 
 
-### Prompt : index php ye girince hata veriyor nerede hata olabilir
+#Prompt : index php ye girince hata veriyor nerede hata olabilir
 
 
 `index.php` dosyasına girerken hata alıyorsanız, bu sorunun birkaç farklı sebebi olabilir. Hatanın kaynağını bulmak için hata mesajının içeriği, sunucu ortamı ve kod yapısı önemlidir. Aşağıda, `index.php` dosyasının hata vermesinin yaygın nedenlerini ve bu hataları nasıl tespit edip çözebileceğinizi adım adım açıklıyorum:
@@ -402,7 +402,7 @@ Sorunu daha hızlı çözmek için şu detayları paylaşırsanız yardımcı ol
 Bu adımları takip ederek hatayı tespit edebilirsiniz. Daha fazla detay verirseniz, sorunu pinpoint edebilirim! 😊
 
 
-### Prompt : online hosta dosya yukleme islemi nasıl yapılır
+# Prompt : online hosta dosya yukleme islemi nasıl yapılır
 
 Online bir hosting hizmetine dosya yükleme işlemi, genellikle birkaç farklı yöntemle yapılabilir. Aşağıda, PHP tabanlı bir web sitesini veya dosyaları bir hosting hizmetine yüklemek için en yaygın yöntemleri adım adım açıklıyorum. Ayrıca, daha önce bahsettiğiniz `index.php` ve SSL hatalarıyla ilgili bağlamı dikkate alarak, yükleme sonrası olası sorunları da ele alacağım.
 
@@ -561,7 +561,7 @@ Sorunu daha hızlı çözmek için:
 - **Kod içeriği**: Eğer mümkünse, `index.php` dosyanızın içeriğini paylaşın (özellikle hata veren kısım).
 
 Bu adımları takip ederek dosyalarınızı yükleyebilir ve olası hataları çözebilirsiniz. Daha fazla detay verirseniz, spesifik bir çözüm sunabilirim! 😊
-### Prompt : password hash islemi nedir nasıl yapılır tam olarak anlat
+# Prompt : password hash islemi nedir nasıl yapılır tam olarak anlat
 
 
 PHP'de **password hash** işlemi, kullanıcı şifrelerini güvenli bir şekilde saklamak için kullanılan bir yöntemdir. Şifreler, veritabanında düz metin (plain text) olarak saklanmamalıdır; çünkü bu, güvenlik açıklarına yol açar. Bunun yerine, şifreler **hash fonksiyonları** kullanılarak tek yönlü bir şekilde şifrelenir ve saklanır. PHP, bu işlemi kolaylaştırmak için güçlü ve güvenli yerleşik fonksiyonlar sunar, özellikle `password_hash()` ve `password_verify()`.
@@ -851,7 +851,7 @@ Eğer daha fazla detaya ihtiyacınız varsa veya kodda hata alıyorsanız:
 - Belirli bir özelliği (örneğin, Argon2 kullanımı) detaylandırmamı isterseniz, söyleyin.
 
 Bu rehberle, PHP'de güvenli bir şekilde şifre hashleme ve doğrulama işlemlerini yapabilirsiniz. Başka bir sorunuz varsa, hemen yardımcı olayım! 😊
-### Prompt : bir siteye girilen verileri veritabanına nasıl kaydederiz
+# Prompt : bir siteye girilen verileri veritabanına nasıl kaydederiz
 
 Bir web sitesine girilen verileri (örneğin, bir formdan gelen kullanıcı bilgilerini) PHP kullanarak veritabanına kaydetmek, oldukça yaygın bir işlemdir. Bu süreç, HTML formu, PHP kodu ve bir veritabanı (genellikle MySQL) ile gerçekleştirilir. Aşağıda, bu işlemi adım adım, kapsamlı ve açık bir şekilde anlatıyorum. Daha önce bahsettiğiniz `index.php` ve SSL hataları bağlamında, güvenli bir şekilde veri kaydetme sürecini de ele alacağım.
 
@@ -1165,7 +1165,7 @@ Eğer sorun yaşıyorsanız veya daha fazla detaya ihtiyacınız varsa:
 Bu rehberle, form verilerini güvenli bir şekilde veritabanına kaydedebilirsiniz. Ek bir sorunuz varsa, hemen yardımcı olayım! 😊
 
 
-### Prompt : sifre kaydetme isi nasil yapiliyor
+# Prompt : sifre kaydetme isi nasil yapiliyor
 
 Şifre kaydetme işlemi, bir web sitesinde kullanıcıların şifrelerini güvenli bir şekilde veritabanına kaydetmeyi içerir. Bu işlem, özellikle güvenlik açısından kritik olduğundan, şifrelerin düz metin (plain text) olarak saklanmaması ve hashlenerek kaydedilmesi gerekir. Daha önce sorduğunuz sorular bağlamında (örneğin, PHP ile veritabanına veri kaydetme ve SSL hataları), bu cevabı **password hash** işlemini ve şifrelerin veritabanına güvenli bir şekilde nasıl kaydedileceğini adım adım açıklayarak, önceki sorularınızla tutarlı ve kapsamlı bir şekilde sunacağım.
 
