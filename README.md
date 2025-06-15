@@ -76,7 +76,7 @@ cd borsa-yatirim-takip
 
 ## Ekran Görüntüleri
 - **Ana Sayfa**:
-  ![Ana Sayfa](srcc/index.png)<hr>
+  <img src = src/index.png>
 - **Giriş Sayfası**:  
   ![Giriş Sayfası](srcc/login.png)<hr>
 - **Kayıt Sayfası**:
