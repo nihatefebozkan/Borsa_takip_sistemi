@@ -105,14 +105,3 @@ Uygulamanın nasıl çalıştığını gösteren 2-3 dakikalık tanıtım videos
 4. Dalınızı push edin: `git push origin ozellik/yeni-ozellik`
 5. Bir Pull Request oluşturun.
 
-## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Ayrıntılar için `LICENSE` dosyasına bakın.
-
-## İletişim
-Sorularınız veya önerileriniz için: [e-posta adresi veya GitHub kullanıcı adı].
-
-## Notlar
-- Proje, sağlanan hosting ortamına yüklenirken `db_connect.php` dosyasındaki veritabanı ayarları güncellenmelidir.
-- Hassas bilgiler (örneğin, veritabanı şifreleri) GitHub'a yüklenmeden önce sansürlenmelidir.
-- `.htaccess` dosyası kullanılmamıştır.
-- Yapay zeka araçlarından alınan yardımlar `AI.md` dosyasında belgelenmiştir.
