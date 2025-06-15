@@ -62,7 +62,7 @@ cd borsa-yatirim-takip
 - Tarayıcıda `http://localhost/borsa-yatirim-takip` adresine gidin.
 
 ### Online Erişim
-- Online erişmek için <a href = "http://95.130.171.20/~st22360859033"> linke tıklayın </a>
+- <a href = "http://95.130.171.20/~st22360859033"> Online olarak sunucudan erişim için tıklayın</a>
 
 ## Kullanım
 1. **Kayıt Ol**: Ana sayfadaki "Kayıt Ol" bağlantısına tıklayarak kullanıcı adı, şifre, yaş ve cinsiyet bilgilerinizi girerek hesap oluşturun.
