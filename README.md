@@ -85,8 +85,8 @@ cd borsa-yatirim-takip
 
 ## Proje Videosu
 Uygulamanın nasıl çalıştığını gösteren 2-3 dakikalık tanıtım videosu:  
-[YouTube Bağlantısı](https://www.youtube.com/watch?v=ornek-video-id)  
-(Veya:<a href = "https://drive.google.com/file/d/1umLzQ8e1SG0vwgEbvTgm57M1u_GghVAx/view?usp=sharing">Google Drive</a> )
+[YouTube Bağlantısı]((https://www.youtube.com/watch?v=68qthR5qD5o&ab_channel=NihatEfeBozkan))  
+(Veya: <a href = "https://drive.google.com/file/d/1umLzQ8e1SG0vwgEbvTgm57M1u_GghVAx/view?usp=sharing">Google Drive</a> )
 
 ## Teknik Detaylar
 - **Backend**: Yalın PHP ile geliştirildi. `Portfolio.php` sınıfı, hisse senedi işlemlerini (ekleme, listeleme, düzenleme, silme) yönetir.
