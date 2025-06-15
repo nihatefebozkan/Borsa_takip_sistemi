@@ -75,10 +75,14 @@ cd borsa-yatirim-takip
 5. **Oturumu Kapat**: Sağ üstteki "Çıkış Yap" bağlantısıyla oturumu kapatın.
 
 ## Ekran Görüntüleri
+- **Ana Sayfa**:
+  ![Ana Sayfa](srcc/index.png)
 - **Giriş Sayfası**:  
-  ![Giriş Sayfası](screenshots/login.png)
+  ![Giriş Sayfası](srcc/login.png)
+- **Kayıt Sayfası**:
+   ![Kayıt Sayfası](srcc/register.png)
 - **Kullanıcı Paneli**:  
-  ![Kullanıcı Paneli](screenshots/dashboard.png)
+  ![Kullanıcı Paneli](srcc/dashboard.png)
 
 ## Proje Videosu
 Uygulamanın nasıl çalıştığını gösteren 2-3 dakikalık tanıtım videosu:  
